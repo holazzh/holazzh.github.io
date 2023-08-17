@@ -1,0 +1,46 @@
+p {
+  font-family: Kanit;
+  margin-top: 0;
+  border-color: rgba(96, 96, 96, 0.3);
+  border-style: solid;
+}
+
+.main-title {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 24px;
+  margin-bottom: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: rgba(96, 96, 96, 0.3);
+}
+
+.intro {
+  padding: 2px 0px 2px 300px;
+  margin-top: 20px;
+}
+
+.intro-text {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 200px;
+
+  vertical-align: middle;
+}
+
+.search-box {
+  font-family: kanit;
+  border-color: rgba(96, 96, 96, 0.5);
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 30px 5px 8px;
+  border-width: 2px;
+  margin-left: 600px;
+  margin-top: 2px;
+}
+
+.p-image {
+  text-align: center;
+}

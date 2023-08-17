@@ -1,0 +1,13 @@
+
+.img1 {
+  width: 500px;
+  /* height: 300px; */
+  object-fit: contain;
+  object-position: top;
+  border-color: rgb(165, 0, 0);
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
