@@ -1,0 +1,38 @@
+/* 
+.search-box {
+  font-family: kanit;
+  border-color: rgba(96, 96, 96, 0.5);
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 30px 5px 8px;
+  border-width: 2px;
+  margin-left: 600px;
+  margin-top: 2px;
+  transition: 0.3s;
+
+  &:focus {
+    border-color: #15a0cf; 
+    outline: none; 
+  }
+} 
+*/
+
+.search-box {
+  font-family: kanit;
+  border-color: rgba(96, 96, 96, 0.5);
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 30px 5px 8px;
+  border-width: 2px;
+  margin-left: 600px;
+  margin-top: 2px;
+  transition: 0.3s;
+}
+.search-box:focus {
+  border-color: #00bfff; /* Change the border color when focused */
+  outline: none; /* Remove the default focus outline (optional) */
+}
+
+.gcse-search {
+  padding-left: 300px;
+}
